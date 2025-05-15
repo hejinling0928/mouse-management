@@ -1,0 +1,4 @@
+﻿Strain Name,Tail/Tag Age (Days),Wean Age (Days),Female Mature Age (Days),Male Mature Age (Days),Source,Origin,Status,Category,Default Protocol,Tag Prefix,Last Tag,Comment,Matings,including
+C57BL/6,10,21,42,42,Charles River,USA,Active,Inbred,Tumor Implant,C57-,102,Widely used for cancer and metabolism research,Pair001 (Pair001%201f3947a260e6812c8921f167e4711b15.html),001 (001%201f3947a260e68050beaedc78cb026761.html)
+BALB/c,10,21,42,42,Taconic,Germany,Active,Inbred,Immunization,BALB-,88,High Th2 immune response; suitable for infection models,,003 (003%201f3947a260e680b7b1c2cdc72e5172c3.html)
+NOD/SCID,7,21,45,45,Jackson Lab,USA,Archived,Immunodeficient,Humanization,NSG-,45,Highly immunodeficient; used for humanized mouse models,Pair002 (Pair002%201f3947a260e6811190d9d53b5836baf5.html),002 (002%201f3947a260e680689327d7d9f8840165.html)
